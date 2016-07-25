@@ -1,0 +1,52 @@
+.clear{
+    content: '';
+    display: block;
+    clear:both;
+
+}
+a{
+	text-decoration: none;
+	color: black;
+	font: 12px/20px '宋体';
+}
+.warrper{
+	border: 1px solid #cfcfcf;
+	border-top: 2px solid #206f96;
+	width: 298px;
+}
+.d1{
+	height: 29px;
+	background:#ededed;
+	font-size: 14px;
+	font-weight: bold;
+	text-indent: 10px;
+	line-height:28px;
+	padding-bottom: 1px;
+
+}
+.d2{
+	background: no-repeat  #ffffff url(../images/1.png);
+	margin-left: 8px;
+	margin-top: 25px;
+	float:left;
+
+}
+.a1{
+
+    display: block;
+
+    float: left;
+    margin-left:42px; 
+}
+a{
+	display: block;
+	float: left;
+	margin-left: 11px;
+	margin-bottom: 5px;
+}
+.d3{
+	background:no-repeat #f7f7f7 url(../images/1.png);
+	margin-left: 8px;
+	margin-top: -82px;
+	float:left;
+}

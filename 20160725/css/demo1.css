@@ -1,0 +1,42 @@
+.clear:after{
+	content: '';
+	display: block;
+	clear: both;
+
+}
+.warper{
+width: 500px;
+border:10px solid #cccccc;
+}
+.box1{
+	width: 200px;
+	height: 400px;
+	background:#77aa11;
+	float: left;
+}
+.box2{
+	width:300px;
+	float:right;
+
+}
+.b1{
+	height: 80px;
+	background: #ff9900;
+}
+.b3{
+	height: 160px;
+	background: #336699;
+}
+.b2 .b1{
+	width: 150px;
+	height: 160px;
+	background: #ff6699;
+	float: left;
+
+}
+.b2 .b2{
+	width: 150px;
+	height: 160px;
+	background: #44ffcc;
+	float: right;
+}
